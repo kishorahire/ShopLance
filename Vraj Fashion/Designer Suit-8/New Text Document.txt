@@ -1,0 +1,12 @@
+C.No :- 927
+
+Rs.1099
+
+Top :- Georgette 
+Bottom :- Santoon 
+Inner :- Santoon
+Dupatta :- Nazmeen
+Wrok :- Embroidry
+Length :- Max up to 58
+Size :- Max up to 46
+Type :- Semi Stitched
